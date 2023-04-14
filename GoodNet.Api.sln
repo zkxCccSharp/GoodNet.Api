@@ -5,6 +5,10 @@ VisualStudioVersion = 25.0.1705.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodNet.Api", "GoodNet.Api\GoodNet.Api.csproj", "{71A58588-AE4F-4E90-A31E-23D7A48B546A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodNet.Data", "GoodNet.Data\GoodNet.Data.csproj", "{34DE1977-F473-4E99-A86A-41E265FCDC90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodNet.Sql", "GoodNet.Sql\GoodNet.Sql.csproj", "{2681D037-DE86-4EF1-B063-23835ADCB99D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{71A58588-AE4F-4E90-A31E-23D7A48B546A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71A58588-AE4F-4E90-A31E-23D7A48B546A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71A58588-AE4F-4E90-A31E-23D7A48B546A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34DE1977-F473-4E99-A86A-41E265FCDC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DE1977-F473-4E99-A86A-41E265FCDC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DE1977-F473-4E99-A86A-41E265FCDC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DE1977-F473-4E99-A86A-41E265FCDC90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2681D037-DE86-4EF1-B063-23835ADCB99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2681D037-DE86-4EF1-B063-23835ADCB99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2681D037-DE86-4EF1-B063-23835ADCB99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2681D037-DE86-4EF1-B063-23835ADCB99D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
